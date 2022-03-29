@@ -1,2 +1,2 @@
-# ProfAjax
-ADS-2022
+# profajax
+Projeto professor Ajax
